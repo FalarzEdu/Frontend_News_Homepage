@@ -21,8 +21,8 @@ This is a basic challenge where the user should be able to:
 
 <ul>
     <li>Easily read the content and have a good experience with the layout even using mobile devices.</li>
-    <li>Interact with the options and the other buttons on the page</li>
-    <li>Toggle the menu for mobile devices</li>
+    <li>Interact with the options and the other buttons on the page.</li>
+    <li>Toggle the menu for mobile devices.</li>
 </ul>
 <img src="./assets/images/News Homepage.png" alt="" style="zoom: 50%;" >
 
@@ -40,7 +40,7 @@ Although this is a basic challenge it was my first try and i learned a lot in th
 
 <h3 id="dev">The development</h3>
 
-For the design i tried to use both Flexbox, CSS Grid and its animation resources to familiarize myself with this tools. For this first try i decide i would not dive into JavaScript to focus on the visual elements.
+For the design i tried to use Flexbox, CSS Grid and its animation resources to familiarize myself with this tools. For this first try i decide i would not dive into JavaScript to focus on the visual elements.
 
 <h3 id="built">Built with</h3>
 
